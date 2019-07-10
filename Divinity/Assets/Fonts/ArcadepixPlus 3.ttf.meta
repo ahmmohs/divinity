@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 978f5471b9ef34aa5b5ad676779e82f0
+timeCreated: 1488428198
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arcadepix Plus
+  fontNames:
+  - Arcadepix Plus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
